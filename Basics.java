@@ -86,7 +86,7 @@ class Solution{
         System.out.println();
     }
 }
-public class Main
+public class Basics
 {
 	public static void main(String[] args) {
 	  Scanner sc = new Scanner(System.in);
